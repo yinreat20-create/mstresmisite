@@ -55,4 +55,4 @@ export const HERO_POSTER =
   'https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1920';
 
 export const ABOUT_IMG =
-  'https://images.pexels.com/photos/264941/pexels-photo-264941.jpeg?auto=compress&cs=tinysrgb&w=1200';
+  'https://ibb.co/YTB7YK3q?auto=compress&cs=tinysrgb&w=1200';

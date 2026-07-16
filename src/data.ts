@@ -55,4 +55,4 @@ export const HERO_POSTER =
   'https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1920';
 
 export const ABOUT_IMG =
-  'https://ibb.co/YTB7YK3q?auto=compress&cs=tinysrgb&w=1200';
+  'https://i.ibb.co/84gDTR0S/Chat-GPT-mage-16-Tem-2026-22-40-34.png';
